@@ -1,4 +1,8 @@
-REMIX EXAMPLE PROJECT
+#NeilGrasseDeTysonCoin
+
+A REMIX EXAMPLE PROJECT TO GET A BETTER UNDERSTANDING OF CRYPOCURRENCIES
+
+Using metamask and created on the Rinkby Test nework
 
 Remix example project is present when Remix loads very first time or there are no files existing in the File Explorer. 
 It contains 3 directories:
